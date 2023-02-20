@@ -1,0 +1,76 @@
+{
+  "seller": [
+    {
+      "name": "harun yildiz",
+      "email": "yildizharunn@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "name": "faruk yildiz",
+      "email": "test@gmail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "name": "peter",
+      "password": "12345",
+      "email": "email@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "brıce",
+      "password": "12345",
+      "email": "test@test.com",
+      "id": 4
+    },
+    {
+      "name": "harun",
+      "password": "12345",
+      "email": "test@test.com",
+      "id": 5
+    },
+    {
+      "name": "Harun",
+      "password": "12345",
+      "email": "test@test.com",
+      "id": 6
+    },
+    {
+      "name": "qwe",
+      "password": "123",
+      "email": "test@test.com",
+      "id": 7
+    },
+    {
+      "name": "sam",
+      "password": "1234",
+      "email": "tasd@test.com",
+      "id": 8
+    },
+    {
+      "name": "parker",
+      "password": "12345",
+      "email": "qwera@test.com",
+      "id": 9
+    },
+    {
+      "name": "anil",
+      "email": "anil@test.com",
+      "password": "123456",
+      "id": 10
+    },
+    {
+      "name": "deneme",
+      "password": "deneme123",
+      "e-mail": "deneme@test.com",
+      "id": 11
+    },
+    {
+      "name": "mencu123",
+      "password": "abc123",
+      "email": "mencu@mencu.com",
+      "id": 12
+    }
+  ]
+}

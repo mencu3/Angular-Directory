@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+}
+.container{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.common-form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: auto;
+}
+.form-input {
+    margin-bottom: 20px;
+    height: 25px;
+    border: 1px solid darkcyan;
+    padding-left: 10px;
+    color: darkcyan;
+}
+.form-button {
+    height: 33px;
+    color: darkcyan;
+    border: 1px darkcyan;
+    cursor: pointer;
+}
+.error-p{
+    color: red;
+}
